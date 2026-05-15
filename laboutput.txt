@@ -1,3 +1,22 @@
+
+
+Skip to content
+Using Gmail with screen readers
+Enable desktop notifications for Gmail.
+   OK  No, thanks
+
+1 of 31
+(no subject)
+Inbox
+
+Avi Abel
+Attachments
+15:13 (0 minutes ago)
+to me
+
+
+ One attachment
+  •  Scanned by Gmail
 test_0 (__main__.lab2a.test_0)
 [Lab 2] - [Investigation 1] - [Part 1] - variables & printing - Test for file creation: ./lab2a.py ... ok
 test_1 (__main__.lab2a.test_1)
@@ -91,7 +110,7 @@ test_0 (__main__.lab2out.test_0)
 [Lab 2 Output and Email Verification] ... skipped 'checked after submission. Students: ignore'
 
 ----------------------------------------------------------------------
-Ran 44 tests in 0.333s
+Ran 44 tests in 0.345s
 
 OK (skipped=1)
 OPS445 Lab Report - System Information for running ./CheckLab2.py
@@ -104,5 +123,7 @@ OPS445 Lab Report - System Information for running ./CheckLab2.py
     VS Code version:  1.119.0 646
     OS Platform: linux
     Working Directory: /home/bhodes/ops445/lab2
-    Start at: Fri May 15 14:34:41 2026
+    Start at: Fri May 15 15:06:53 2026
 =================================================================
+laboutput.txt
+Displaying laboutput.txt.
