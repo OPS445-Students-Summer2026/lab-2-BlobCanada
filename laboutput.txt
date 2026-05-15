@@ -1,22 +1,3 @@
-
-
-Skip to content
-Using Gmail with screen readers
-Enable desktop notifications for Gmail.
-   OK  No, thanks
-
-1 of 31
-(no subject)
-Inbox
-
-Avi Abel
-Attachments
-15:13 (0 minutes ago)
-to me
-
-
- One attachment
-  •  Scanned by Gmail
 test_0 (__main__.lab2a.test_0)
 [Lab 2] - [Investigation 1] - [Part 1] - variables & printing - Test for file creation: ./lab2a.py ... ok
 test_1 (__main__.lab2a.test_1)
@@ -125,5 +106,4 @@ OPS445 Lab Report - System Information for running ./CheckLab2.py
     Working Directory: /home/bhodes/ops445/lab2
     Start at: Fri May 15 15:06:53 2026
 =================================================================
-laboutput.txt
-Displaying laboutput.txt.
+
